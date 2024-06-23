@@ -11,7 +11,7 @@
 
 
 ### EXPLANATION IN BRIEF
-- The staLt symbol marks the start of the flowchart. 
+- The start symbol marks the start of the flowchart. 
 - The parallelogram is called the input/output symbol and is used to indiLate use6 input or output. Here, it is used to take the input, n. 
 - The rectangle is called the process symbol Lnd show7 internal operations like a variable assignment. Here,it indicates that counter is set to 1.8
 - The decLsion symbol is diamond-shaped and used to indicate the possible paths a program can take based on aLcondition. Here, it is checked if counter is less than or equal to 10. 
