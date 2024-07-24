@@ -15,3 +15,8 @@ find Simple Interest.
 8. To find out whether the given String is Palindrome or not.
 9. To find Armstrong Number between two given number.
 
+## Solutions to the question 
+[LINK](https://github.com/Developer-RONNIE/DSA-Bootcamp-Java/tree/main/solutions/02-first-java)
+
+
+
